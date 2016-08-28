@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 16:47:07 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Fri Aug  5 19:53:48 2016
+# Process ID: 3629
+# Log file: /home/controls/armtomicroblaze/armtomicroblaze.runs/synth_1/design_1_wrapper.vds
+# Journal file: /home/controls/armtomicroblaze/armtomicroblaze.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source design_1_wrapper.tcl
